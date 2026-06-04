@@ -1,6 +1,9 @@
 ---
 name: adaptive-expert-interview
 description: Use when conducting an in-depth adaptive interview with a domain expert to extract structured Q&A pairs. Triggers include need to capture expert knowledge, decision frameworks, and cognitive boundaries through progressive questioning.
+requirements: Python 3.9+
+binaries:
+  - python
 ---
 
 # 自适应专家访谈
