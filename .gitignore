@@ -24,3 +24,4 @@ demo_result.jsonl
 interview_state.json
 interview_result.jsonl
 *.bak
+push-to-github.bat
